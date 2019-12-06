@@ -1,9 +1,12 @@
 # Algo-rythm challenges
 
 * [Two Rival Students][1]
-    *  [my_soln](./_two_rival_students.py)
+    *  [soln](./_two_rival_students.py)
 
+* [Sweet Problem][2]
+    *  [soln](./_sweet_prblm.py)
 
 
 
 [1]: https://codeforces.com/problemset/problem/1257/A
+[2]: https://codeforces.com/problemset/problem/1263/A
