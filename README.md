@@ -20,6 +20,9 @@
     *  [soln](./_payment_wiz_out_change.py)
 
 
+* A0 paper challenge
+    *  [soln](./_A0_paper_challenge.py)
+
 
 [1]: https://codeforces.com/problemset/problem/1257/A
 [2]: https://codeforces.com/problemset/problem/1263/A
