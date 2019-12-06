@@ -11,7 +11,12 @@
     *  [soln](./_biniary_string_minimizing.py)
 
 
+* [PIN Codes][4]
+    *  [soln](./_pin_codes.py)
+
+
 
 [1]: https://codeforces.com/problemset/problem/1257/A
 [2]: https://codeforces.com/problemset/problem/1263/A
 [3]: https://codeforces.com/contest/1256/problem/D
+[4]: https://codeforces.com/problemset/problem/1263/B
